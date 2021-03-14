@@ -18,3 +18,9 @@ https://youtu.be/UCFh5JEGNx8
 
 <img width="376" alt="Screen Shot 2021-03-14 at 9 16 15 AM" src="https://user-images.githubusercontent.com/54964527/111072578-93485100-84b1-11eb-919c-d7aef6cc5b2c.png">
 
+Five new desirable functionalities:
+•	Directly Booking a Covid Test.
+•	Directly Booking a vaccination Appointment.
+•	Providing information on nearest isolation centers available.
+•	If there has been any record number of cases or deaths, with alerts.
+•	Alerting if people are too near the user (less than 2meters)
